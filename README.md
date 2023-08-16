@@ -17,7 +17,7 @@ I believe in the power of collaboration and agile methodologies, honed through w
 Feel free to explore my repositories to see my coding journey and projects I've worked on. Let's connect and collaborate on exciting software endeavors!
 
 
-# Relative work I contribute
+## Relative work I contribute
 
 - [MBTI Matcher](https://github.com/StevenTian0/mbti-matchr)
 - [Immortal Trade](https://github.com/StevenTian0/Immortal-Trade)
