@@ -15,3 +15,13 @@ Welcome to my GitHub profile! I'm an aspiring Software Developer currently pursu
 I believe in the power of collaboration and agile methodologies, honed through working within cross-functional teams at Ubisoft. With a knack for problem-solving and a commitment to delivering high-quality code, I'm excited to embark on new challenges and contribute my skills to innovative projects.
 
 Feel free to explore my repositories to see my coding journey and projects I've worked on. Let's connect and collaborate on exciting software endeavors!
+
+
+# Relative work I contribute
+
+- [MBTI Matcher](https://github.com/StevenTian0/mbti-matchr)
+- [Immortal Trade](https://github.com/StevenTian0/Immortal-Trade)
+- [myScheduler](https://github.com/StevenTian0/myScheduler)
+- [CSSA Frontend](https://github.com/StevenTian0/cssa-frontend)
+- [CSSA Backend](https://github.com/StevenTian0/cssa-backend)
+- [Mahjong](https://github.com/StevenTian0/Mahjong)
